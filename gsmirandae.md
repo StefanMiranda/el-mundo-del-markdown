@@ -27,3 +27,4 @@
 | rm | *trash* |
 
 > http://localhost:8080/gsmirandae/index.html
+> npx @11ty/elenty --server
